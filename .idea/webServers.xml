@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cf518dcd-f2b3-49a9-b62b-2608d37a7a86" name="wp-plugin" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="E:\proyectos\Oswal Candela\test\wp-content\plugins\calculadora-caloria-plugin" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>

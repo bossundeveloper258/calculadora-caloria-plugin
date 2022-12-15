@@ -1,0 +1,18 @@
+
+8php:S125Y"Remove this commented out code.(ãÛøòùÿÿÿÿ
+j	php:S3776ç"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(œ´¯
+b	php:S1192Î"GDefine a constant instead of duplicating this literal "amount" 3 times.(¢¼‘óûÿÿÿÿ
+f	php:S1192Š"KDefine a constant instead of duplicating this literal "carbsRatio" 5 times.(ˆÙ¶šıÿÿÿÿ
+b	php:S1192Ó"GDefine a constant instead of duplicating this literal "weight" 4 times.(ä’Éãúÿÿÿÿ
+b	php:S1192ô"GDefine a constant instead of duplicating this literal "userId" 3 times.(¦Œùâùÿÿÿÿ
+d	php:S1192Õ"NDefine a constant instead of duplicating this literal "activityIndex" 4 times.(‹æ ¿
+}	php:S11925"cDefine a constant instead of duplicating this literal "calculadora_caloria_plugin_version" 3 times.(–“ì¸ûÿÿÿÿ
+b	php:S1192Ô"GDefine a constant instead of duplicating this literal "height" 4 times.(Öúå“ıÿÿÿÿ
+c	php:S1192ˆ"MDefine a constant instead of duplicating this literal "proteinRatio" 5 times.(Ğâ€‡
+g	php:S1192Í"LDefine a constant instead of duplicating this literal "description" 3 times.(ãƒ…şÿÿÿÿ
+8php:S125Q"Remove this commented out code.(™Úâ¬şÿÿÿÿ
+b	php:S1192Ñ"GDefine a constant instead of duplicating this literal "gender" 4 times.(æ®ºûÿÿÿÿ
+3php:S125\"Remove this commented out code.(°†ÿ
+8php:S125^"Remove this commented out code.(éØ»Úûÿÿÿÿ
+c	php:S1192Ö"HDefine a constant instead of duplicating this literal "bodyFat" 4 times.(é°”ûÿÿÿÿ
+_	php:S1192‰"IDefine a constant instead of duplicating this literal "fatRatio" 5 times.(Èô¨¿

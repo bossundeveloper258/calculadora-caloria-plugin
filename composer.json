@@ -1,0 +1,23 @@
+{
+    "name": "fizdalf/calculadora-caloria-plugin",
+    "description": "un plugin de wordpress",
+    "require": {
+        "dompdf/dompdf": "^0.8.4",
+        "twig/twig": "^2.12",
+        "ext-json": "*"
+    },
+    "authors": [
+        {
+            "name": "fizdalf",
+            "email": "fizdalf@gmail.com"
+        }
+    ],
+    "config": {
+        "preferred-install": "dist"
+    },
+    "autoload": {
+        "psr-4": {
+            "Fizdalf\\": "classes/"
+        }
+    }
+}
